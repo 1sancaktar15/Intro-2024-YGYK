@@ -1,0 +1,14 @@
+/home/elif/Masaüstü/Intro/bin/Debug/net8.0/Intro
+/home/elif/Masaüstü/Intro/bin/Debug/net8.0/Intro.deps.json
+/home/elif/Masaüstü/Intro/bin/Debug/net8.0/Intro.runtimeconfig.json
+/home/elif/Masaüstü/Intro/bin/Debug/net8.0/Intro.dll
+/home/elif/Masaüstü/Intro/bin/Debug/net8.0/Intro.pdb
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.AssemblyInfoInputs.cache
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.AssemblyInfo.cs
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.csproj.CoreCompileInputs.cache
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.dll
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/refint/Intro.dll
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.pdb
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.genruntimeconfig.cache
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/ref/Intro.dll
