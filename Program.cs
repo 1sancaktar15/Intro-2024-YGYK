@@ -60,8 +60,37 @@ Console.WriteLine("kod bitti");
 
 IndividualCustomer customer1 = new IndividualCustomer();
 customer1.Id = 1;
-customer1.NationalIdentity = "1234567891011";
+customer1.NationalIdentity = "12345678910";
 customer1.FirstName = "Elif";
 customer1.LastName = "Ozun";
+customer1.CustomerNumber = "123456";
+
+
+IndividualCustomer customer2 = new IndividualCustomer();
+customer2.Id = 2;
+customer2.NationalIdentity = "12305678910";
+customer2.FirstName = "Merve";
+customer2.LastName = "Celik";
+customer2.CustomerNumber = "123456";
+
+
+CoorporateCustomer customer3 = new CoorporateCustomer();
+customer3.Id = 3;
+customer3.Name = "kodlamaio";
+customer3.CustomerNumber = "123456";
+customer3.TaxNumber = "1928450173";
+
+CoorporateCustomer customer4 = new CoorporateCustomer();
+customer4.Id = 3;
+customer4.Name = "abc";
+customer4.CustomerNumber = "123459";
+customer4.TaxNumber = "1928450175";
+
+BaseCustomer[] customers = {customer1, customer2, customer3, customer4};
+
+foreach (BaseCustomer customer in customers)
+{
+    Console.WriteLine(customer.CustomerNumber);
+}
 
 
