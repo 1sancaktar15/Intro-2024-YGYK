@@ -2,6 +2,7 @@
 
 using Intro.Entities;
 using Intro.Business;
+using Intro;
 
 Console.WriteLine("Hello, World!");
 
@@ -54,4 +55,13 @@ for (int i = 0; i < kurslar.Length; i++)
     Console.WriteLine("Kurs ID'si: " + kurslar[i].Id );
 }
 
+
 Console.WriteLine("kod bitti");
+
+IndividualCustomer customer1 = new IndividualCustomer();
+customer1.Id = 1;
+customer1.NationalIdentity = "1234567891011";
+customer1.FirstName = "Elif";
+customer1.LastName = "Ozun";
+
+

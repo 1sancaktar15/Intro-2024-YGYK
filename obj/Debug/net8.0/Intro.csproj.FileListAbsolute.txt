@@ -12,3 +12,4 @@
 /home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.pdb
 /home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.genruntimeconfig.cache
 /home/elif/Masaüstü/Intro/obj/Debug/net8.0/ref/Intro.dll
+/home/elif/Masaüstü/Intro/obj/Debug/net8.0/Intro.sourcelink.json
