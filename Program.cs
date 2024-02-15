@@ -45,12 +45,12 @@ string[] loans = {"kredi1", "kredi2", "kredi3", "kredi4", "kredi5"}; //dbden gel
 //     Console.WriteLine("Kurs ID'si: " + courses[i].Id );
 // }
 
-CourseManager courseManager = new();
+CourseManager courseManager = new(new CourseDal());
 //courseManager.GetAll();
 
-Course[] kurslar= courseManager.GetAll();
+List<courseManager> kurslar= courseManager.GetAll();
 
-for (int i = 0; i < kurslar.Length; i++)
+for (int i = 0; i < kurslar.Count; i++)
 {
     Console.WriteLine("Kurs ID'si: " + kurslar[i].Id );
 }
